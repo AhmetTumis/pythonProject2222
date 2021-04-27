@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/stop-words_TUR.txt" charset="ISO-8859-9" />
+    <file url="file://$PROJECT_DIR$/test" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/test/ekonomi/testdat 1.txt" charset="ISO-8859-9" />
+    <file url="file://$PROJECT_DIR$/train" charset="windows-1254" />
+  </component>
+</project>
